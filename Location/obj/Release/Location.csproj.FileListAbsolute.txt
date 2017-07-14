@@ -1,0 +1,13 @@
+C:\Users\qweas\documents\visual studio 2015\Projects\Location\Location\bin\Release\Location.exe.config
+C:\Users\qweas\documents\visual studio 2015\Projects\Location\Location\bin\Release\Location.exe
+C:\Users\qweas\documents\visual studio 2015\Projects\Location\Location\bin\Release\Location.pdb
+C:\Users\qweas\documents\visual studio 2015\Projects\Location\Location\obj\Release\MainWindow.g.cs
+C:\Users\qweas\documents\visual studio 2015\Projects\Location\Location\obj\Release\App.g.cs
+C:\Users\qweas\documents\visual studio 2015\Projects\Location\Location\obj\Release\Location_MarkupCompile.cache
+C:\Users\qweas\documents\visual studio 2015\Projects\Location\Location\obj\Release\Location_MarkupCompile.lref
+C:\Users\qweas\documents\visual studio 2015\Projects\Location\Location\obj\Release\MainWindow.baml
+C:\Users\qweas\documents\visual studio 2015\Projects\Location\Location\obj\Release\Location.g.resources
+C:\Users\qweas\documents\visual studio 2015\Projects\Location\Location\obj\Release\Location.Properties.Resources.resources
+C:\Users\qweas\documents\visual studio 2015\Projects\Location\Location\obj\Release\Location.csproj.GenerateResource.Cache
+C:\Users\qweas\documents\visual studio 2015\Projects\Location\Location\obj\Release\Location.exe
+C:\Users\qweas\documents\visual studio 2015\Projects\Location\Location\obj\Release\Location.pdb
